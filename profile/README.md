@@ -1,12 +1,6 @@
-## Hi there 👋
+# Hello. there...
+You are probably wondering wth this Organisation is. Well, quite frankly we don't know either. We have an interrobang as a logo to emphasise teh fact we den'y know what we are doing and to seal the deal, we have made it extremely clear that all our decisions, revolving engineering of any kind, are indeed questionable.
 
-<!--
+I hope you Enjoy our work because we sure as heck did :D
 
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+So long, and thanks for all the fish.
